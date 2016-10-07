@@ -1,0 +1,1 @@
+Project testing AJAX and JSON also heled learn about using geograpical location.
